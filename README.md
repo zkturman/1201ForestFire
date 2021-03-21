@@ -4,4 +4,4 @@ Graded assignment for COMSM1201 that creates a simple simulation of a forest fir
 Files created for assignment: forest.c  
 Files provided by instructor: neillsimplescreen.c, neillscimplescreen.h
 
-Final grade: 75%
+Final grade: Distinction (75%)
